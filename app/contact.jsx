@@ -3,7 +3,7 @@ import { Text, StyleSheet, } from 'react-native';
 export default function TabTwoScreen() {
   return (
     <>
-    <Text style={styles.title}>About</Text>
+    <Text style={styles.title}>Contact</Text>
     <Text style={styles.content}>This coffee shop is the most metal coffee shop of all. Blacker than the blackest night times infinity.</Text>
     <Text style={styles.content}>Sponsored by Duncan Hills Coffee.</Text>
     </>
